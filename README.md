@@ -15,4 +15,7 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 ---
 
 ### 📊 My GitHub Impact
-![Saifullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifullahCodes&show_icons=true&theme=radical)
+
+![Saifullah's Stats](https://github-readme-stats.vercel.app/api?username=SaifullahCodes&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifullahCodes&layout=compact&theme=dark&hide_border=true)
