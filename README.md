@@ -14,9 +14,11 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Tech Stack & Skills
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SaifullahCodes&show_icons=true&theme=tokyonight" alt="Saifullah's Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
