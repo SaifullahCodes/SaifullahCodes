@@ -3,8 +3,18 @@
 ### 🎓 Computer Science Graduate | Android & AI Engineer 🚀
 I am a results-driven Computer Science graduate from the Institute of Space Technology (IST), passionate about building intelligent mobile ecosystems. I specialize in integrating **Generative AI** and **Computer Vision** into Native Android applications.
 
-- 🛠️ **Flagship Project:** Engineered an AI-powered Parkinson’s Disease Detection System using **Google Gemini 1.5 Pro** and **MediaPipe**.
 - 💼 **Status:** Open to Work | Actively seeking opportunities in Android Development & AI Engineering.
+
+---
+
+---
+
+## 🛠️ Flagship Project
+**AI-Powered Parkinson’s Disease Detection App**  
+- Multi-role app: Patient, Doctor, Admin  
+- Features: Voice + Video Analysis, AI-generated report with confidence score  
+- Tech: Android Studio (Java), Firebase, Flask API, Google Gemini 1.5 Pro, MediaPipe  
+- [Demo Video](https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M) | [GitHub Repo](https://github.com/SaifullahCodes/parkinsons-disease-detection-android)
 
 ---
 
