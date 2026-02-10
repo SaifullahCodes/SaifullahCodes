@@ -35,11 +35,10 @@ Check out the app in action:
 
 ---
 
-### 📊 GitHub Stats
-
-![Saifullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaifullahCodes&show_icons=true&theme=radical&hide_border=false)  
-
-![Saifullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifullahCodes&layout=compact&theme=radical&hide_border=false)  
+### 🔥 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
+</p>
 
 ---
 
