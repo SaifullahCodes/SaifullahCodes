@@ -1,17 +1,14 @@
-<div align="right">
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" /> </div>
-
-# 👋 Hi, I'm Saifullah Naseer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Saifullah Naseer!
 
 <table border="0">
   <tr>
-    <td width="60%" valign="center">
+    <td width="55%" valign="center">
       <h3>🎓 Computer Science Graduate | Android & AI Engineer 🚀</h3>
       <p>I am a results-driven Computer Science graduate from the Institute of Space Technology (IST), passionate about building intelligent mobile ecosystems. I specialize in integrating <b>Generative AI</b> and <b>Computer Vision</b> into Native Android applications.</p>
       <p>💼 <b>Status:</b> Open to Work | Actively seeking opportunities in Android Development & AI Engineering.</p>
     </td>
-    <td width="40%" valign="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/585d0331234507.564a1d23db7f6.gif" width="100%" alt="Coding Animation">
+    <td width="45%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation">
     </td>
   </tr>
 </table>
