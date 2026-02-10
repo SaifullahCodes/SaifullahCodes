@@ -11,7 +11,7 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 ### 🖥️ Demo
 Check out the app in action:  
 
-[![Parkinson's App Demo](https://media.giphy.com/media/L6dFZzU0Gg0ew5i6vD/giphy.gif)](https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M)
+[![Parkinson's App Demo](https://media.giphy.com/media/3o7abKHd1xeZtUUX4E/giphy.gif)(https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M)]
 
 ---
 
