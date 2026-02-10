@@ -1,29 +1,48 @@
-# 👋 Hi, I'm Saifullah Naseer!
+<div align="right">
+  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" /> </div>
 
-### 🎓 Computer Science Graduate | Android & AI Engineer 🚀
-I am a results-driven Computer Science graduate from the Institute of Space Technology (IST), passionate about building intelligent mobile ecosystems. I specialize in integrating **Generative AI** and **Computer Vision** into Native Android applications.
+# 👋 Hi, I'm Saifullah Naseer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 💼 **Status:** Open to Work | Actively seeking opportunities in Android Development & AI Engineering.
+<table border="0">
+  <tr>
+    <td width="60%" valign="center">
+      <h3>🎓 Computer Science Graduate | Android & AI Engineer 🚀</h3>
+      <p>I am a results-driven Computer Science graduate from the Institute of Space Technology (IST), passionate about building intelligent mobile ecosystems. I specialize in integrating <b>Generative AI</b> and <b>Computer Vision</b> into Native Android applications.</p>
+      <p>💼 <b>Status:</b> Open to Work | Actively seeking opportunities in Android Development & AI Engineering.</p>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/585d0331234507.564a1d23db7f6.gif" width="100%" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Flagship Project
-**AI-Powered Parkinson’s Disease Detection App**  
-- Multi-role app: Patient, Doctor, Admin  
-- Features: Voice + Video Analysis, AI-generated report with confidence score  
-- Tech: Android Studio (Java), Firebase, Flask API, Google Gemini 1.5 Pro, MediaPipe  
-- [Demo Video](https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M) | [GitHub Repo](https://github.com/SaifullahCodes/parkinsons-disease-detection-android)
+## 🛠️ Flagship Project: Parkinson’s AI Detector
+> *Engineered an AI-powered detection system using **Google Gemini 1.5 Pro** & **MediaPipe**.*
+
+**Features:** Multi-role app (Patient/Doctor/Admin), Voice + Video Analysis, AI-generated reports.
+
+<p align="left">
+  <a href="https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M">
+    <img src="https://img.shields.io/badge/Watch_Demo_Video-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SaifullahCodes/parkinsons-disease-detection-android">
+    <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
 
 - **Languages:** Java, Python, SQL
@@ -34,7 +53,7 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 
 ### 🔥 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
 </p>
 
 ---
@@ -46,5 +65,3 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaifullahCodes&color=blue&style=flat)
-
-
