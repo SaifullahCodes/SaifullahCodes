@@ -7,8 +7,6 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 
 ---
 
----
-
 ## 🛠️ Flagship Project
 **AI-Powered Parkinson’s Disease Detection App**  
 - Multi-role app: Patient, Doctor, Admin  
