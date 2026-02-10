@@ -9,9 +9,9 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 ---
 
 ### 🖥️ Demo
-Check out the app in action:  
+Check out a visual representation of the app:
 
-[![Parkinson's App Demo](https://media.giphy.com/media/3o7abKHd1xeZtUUX4E/giphy.gif)(https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M)
+[![Parkinson's App Demo](https://media.giphy.com/media/3o7abKHd1xeZtUUX4E/giphy.gif)](https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-ugcPost-7425177190889144322-47bS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M)
 
 ---
 
@@ -37,7 +37,7 @@ Check out the app in action:
 
 ### 🔥 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifullahCodes&show_icons=true&theme=dark&hide_border=false" alt="Saifullah's GitHub Stats" />
 </p>
 
 ---
