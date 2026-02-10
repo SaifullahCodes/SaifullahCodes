@@ -39,7 +39,4 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
 </p>
 
----
 
-
-kya hmm is ko or design dy sakty is trha ky ya kuch new cards any else design add kar skty  jo kabi kisi ny na kiya ho beai=utiful design
