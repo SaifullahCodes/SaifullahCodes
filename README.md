@@ -24,13 +24,6 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 
 ---
 
-### 🔥 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with me:
 <p align="left">
 <a href="mailto:saifullah.naseer.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -38,3 +31,14 @@ I am a results-driven Computer Science graduate from the Institute of Space Tech
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaifullahCodes&color=blue&style=flat)
+
+---
+
+### 🔥 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifullahCodes&theme=dark&hide_border=false" alt="Saifullah's GitHub Streak" />
+</p>
+
+---
+
+
