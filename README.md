@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Saifullah Naseer!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" style="vertical-align: middle;"> Hi, I'm Saifullah Naseer!
 
 <table border="0">
   <tr>
